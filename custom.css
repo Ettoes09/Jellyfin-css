@@ -1,6 +1,8 @@
+@@ -1,19 +1,19 @@
 /* Replace Logo with streamberry logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://github.com/Ettoes09/Jellyfin-css/blob/main/sayfelix.png");
+    --logo: url("https://i.ibb.co/h1gxW5jg/streamberry.png");
+    --logo: url("https://cdn.jsdelivr.net/gh/n00bcodr/jellyfish/logos/streamberry.png");
 }
 
 .pageTitleWithDefaultLogo {
@@ -17,4 +19,3 @@
 
 #loginPage .manualLoginForm:not(.hide) h1.sectionTitle::before {
   background-size: 100% !important;
-}
