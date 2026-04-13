@@ -1,6 +1,6 @@
 /* Replace Logo with streamberry logo, this should be the last line in CSS */
 :root {
-    --logo: url("https://github.com/Ettoes09/Jellyfin-css/blob/c0b38a539b0e5dc2f597e853a4939190abd2cb74/logo");
+    --logo: url("https://cdn.jsdelivr.net/gh/Ettoes09/jelyfin-css/ChatGPT Image Apr 12, 2026, 07_38_37 PM.png");
 }
 
 .pageTitleWithDefaultLogo {
